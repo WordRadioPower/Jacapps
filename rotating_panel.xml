@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://static.wixstatic.com/media/8604de_ccfaf34d51a84cd2a8934268b888c6ce~mv2.png</image>
+    <url>https://www.wordradio.net</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>4</number>
+    <image>https://static.wixstatic.com/media/8604de_1bef427954bf4868b38c9305925bb46f~mv2.png</image>
+    <url>https://www.wordradio.net/donate</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://static.wixstatic.com/media/8604de_0da88b4a77b14745b1ea75bd7b3b7073~mv2.png</image>
+    <url>https://www.wordradio.net/power</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://static.wixstatic.com/media/8604de_a3ff27047242456f98b3460089fae690~mv2.png</image>
+    <url>http://christianfilmproductions.org/christianconcertseries.html</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>4</number>
+    <image>https://static.wixstatic.com/media/8604de_72f797174d0749988a688b6be40d4c30~mv2.png</image>
+    <url>https://www.hillfestevents.com/</url>
+    <redirect>n</redirect>
+  </panel>
+
+</rotator>
