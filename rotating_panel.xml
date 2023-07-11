@@ -10,28 +10,28 @@
   </panel>
 
   <panel>
-    <number>4</number>
+    <number>2</number>
     <image>https://static.wixstatic.com/media/8604de_1bef427954bf4868b38c9305925bb46f~mv2.png</image>
     <url>https://www.wordradio.net/donate</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>2</number>
-    <image>WMEK Panel 640x200 (4).png</image>
+    <number>3</number>
+    <image>https://github.com/WordRadioPower/Jacapps/blob/dee5f565de1db68970c68954c6b375a27d7429e9/WMEK%20Panel%20640x200%20(4).png/image>
     <url>https://www.wordradio.net/power</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>3</number>
+    <number>4</number>
     <image>https://static.wixstatic.com/media/8604de_a3ff27047242456f98b3460089fae690~mv2.png</image>
     <url>http://christianfilmproductions.org/christianconcertseries.html</url>
     <redirect>n</redirect>
   </panel>
 
   <panel>
-    <number>4</number>
+    <number>5</number>
     <image>https://static.wixstatic.com/media/8604de_72f797174d0749988a688b6be40d4c30~mv2.png</image>
     <url>https://www.hillfestevents.com/</url>
     <redirect>n</redirect>
