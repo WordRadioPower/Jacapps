@@ -4,14 +4,14 @@
 
   <panel>
     <number>1</number>
-    <image>https://static.wixstatic.com/media/8604de_ccfaf34d51a84cd2a8934268b888c6ce~mv2.png</image>
+    <image>https://static.wixstatic.com/media/8604de_d68a966e66fb476fb6189cc486691420~mv2.png</image>
     <url>https://www.wordradio.net</url>
     <redirect>n</redirect>
   </panel>
 
   <panel>
     <number>2</number>
-    <image>https://static.wixstatic.com/media/8604de_1bef427954bf4868b38c9305925bb46f~mv2.png</image>
+    <image>https://static.wixstatic.com/media/8604de_86c40b10109d4423abe75adec003974e~mv2.png</image>
     <url>https://www.wordradio.net/donate</url>
     <redirect>n</redirect>
   </panel>
@@ -34,6 +34,13 @@
     <number>5</number>
     <image>https://static.wixstatic.com/media/8604de_89af7855e750452eb587b43f50bced0f~mv2.png</image>
     <url>https://www.wordradio.net/outspoken/</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>6</number>
+    <image>https://static.wixstatic.com/media/8604de_c8c9752c4c924e379aa44792130dd469~mv2.png</image>
+    <url>http://christianfilmproductions.org/christianconcertseries.html</url>
     <redirect>n</redirect>
   </panel>
 
