@@ -17,15 +17,9 @@
     <redirect>n</redirect>
   </panel>
 
-  <panel>
-    <number>3</number>
-    <image>https://static.wixstatic.com/media/8604de_6fc369b58ef34ab7a940cbcf7a80b2e6~mv2.png</image>
-    <url>https://www.fuseconcerts.org/connectjaffrey</url>
-    <redirect>n</redirect>
-  </panel>
   
   <panel>
-    <number>4</number>
+    <number>3</number>
     <image>https://static.wixstatic.com/media/8604de_86c40b10109d4423abe75adec003974e~mv2.png</image>
     <url>https://www.wordradio.net/donate</url>
     <redirect>n</redirect>
@@ -33,7 +27,7 @@
   
  
   <panel>
-    <number>5</number>
+    <number>4</number>
     <image>https://static.wixstatic.com/media/8604de_89af7855e750452eb587b43f50bced0f~mv2.png</image>
     <url>https://www.wordradio.net/outspoken/</url>
     <redirect>n</redirect>
