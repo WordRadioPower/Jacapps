@@ -12,38 +12,39 @@
 
     <panel>
     <number>2</number>
+    <image>https://static.wixstatic.com/media/8604de_d70c7501fa3f4ef48d1d7fc6c144ae4a~mv2.png</image>
+    <url>https://www.wordradio.net/donate</url>
+    <redirect>n</redirect>
+  </panel>
+    
+    <panel>
+    <number>3</number>
     <image>https://static.wixstatic.com/media/8604de_0c336e054ecd42fe9bd8dad09a3b1a57~mv2.png</image>
     <url>https://www.mercychapelmaine.org/get-real-radio</url>
     <redirect>n</redirect>
   </panel>
     
     <panel>
-    <number>3</number>
+    <number>4</number>
     <image>https://static.wixstatic.com/media/8604de_7ed90895543f4f3d86e26403519462c5~mv2.png</image>
     <url>jav4-594://28240</url>
     <redirect>n</redirect>
   </panel> 
     
   <panel>
-    <number>4</number>
+    <number>5</number>
     <image>https://static.wixstatic.com/media/8604de_d68a966e66fb476fb6189cc486691420~mv2.png</image>
     <url>https://www.wordradio.net</url>
     <redirect>n</redirect>
   </panel>
 
     <panel>
-    <number>5</number>
+    <number>6</number>
     <image>https://static.wixstatic.com/media/8604de_a49620270cb2435092c38748e946cfa7~mv2.png</image>
     <url>https://ondemand.wordradio.net/ondemand/#/program/6b7dd93da17cc5ef553a25ca761bdf05</url>
     <redirect>n</redirect>
   </panel>
-  
-  <panel>
-    <number>6</number>
-    <image>https://static.wixstatic.com/media/8604de_86c40b10109d4423abe75adec003974e~mv2.png</image>
-    <url>https://www.wordradio.net/donate</url>
-    <redirect>n</redirect>
-  </panel>
+
   
  
   <panel>
