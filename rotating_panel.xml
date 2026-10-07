@@ -6,54 +6,44 @@
     <panel>
     <number>1</number>
     <image>https://static.wixstatic.com/media/8604de_6bfdc5a0fdb44a88b98279b1c877d163~mv2.png</image>
-    <url>https://www.wordradio.net/gather/</url>
+    <url>https://www.wordradio.net</url>
     <redirect>n</redirect>
   </panel>
 
     <panel>
     <number>2</number>
-    <image>https://</image>
-    <url>https://give-usa.keela.co/fall-33k</url>
+    <image>https://static.wixstatic.com/media/8604de_6bfdc5a0fdb44a88b98279b1c877d163~mv2.png</image>
+    <url>https://www.wordradio.net/gather/</url>
     <redirect>n</redirect>
   </panel>
     
     <panel>
     <number>3</number>
-    <image>https://static.wixstatic.com/media/8604de_0c336e054ecd42fe9bd8dad09a3b1a57~mv2.png</image>
-    <url>https://www.mercychapelmaine.org/get-real-radio</url>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/6.png</image>
+    <url>https://www.wordradio.net/donate/</url>
     <redirect>n</redirect>
   </panel>
     
     <panel>
     <number>4</number>
-    <image>https://static.wixstatic.com/media/8604de_d68a966e66fb476fb6189cc486691420~mv2.png</image>
-    <url>https://wordradio.net/contact-us</url>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/9.png</image>
+    <url>https://www.instagram.com/wordradio.media/</url>
     <redirect>n</redirect>
   </panel> 
     
   <panel>
     <number>5</number>
-    <image>https://static.wixstatic.com/media/8604de_d68a966e66fb476fb6189cc486691420~mv2.png</image>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/11.png</image>
     <url>https://www.wordradio.net</url>
     <redirect>n</redirect>
   </panel>
 
     <panel>
     <number>6</number>
-    <image>https://</image>
-    <url>https://www.wordradio.net</url>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/8.png</image>
+    <url>hhttps://www.wordradio.net/business-partners/</url>
     <redirect>n</redirect>
   </panel>
-
-  
- 
-  <panel>
-    <number>7</number>
-    <image>https://static.wixstatic.com/media/8604de_89af7855e750452eb587b43f50bced0f~mv2.png</image>
-    <url>https://www.awakengreatbay.com</url>
-    <redirect>n</redirect>
-  </panel>
-
 
 
 </rotator>
