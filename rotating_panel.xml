@@ -5,14 +5,14 @@
 
     <panel>
     <number>1</number>
-    <image>https://static.wixstatic.com/media/8604de_6bfdc5a0fdb44a88b98279b1c877d163~mv2.png</image>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/10.png</image>
     <url>https://www.wordradio.net</url>
     <redirect>n</redirect>
   </panel>
 
     <panel>
     <number>2</number>
-    <image>https://static.wixstatic.com/media/8604de_6bfdc5a0fdb44a88b98279b1c877d163~mv2.png</image>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/Gather-Local-Events-Native-App-Banner-1.png</image>
     <url>https://www.wordradio.net/gather/</url>
     <redirect>n</redirect>
   </panel>
@@ -33,7 +33,7 @@
     
   <panel>
     <number>5</number>
-    <image>https://www.wordradio.net/wp-content/uploads/2026/10/11.png</image>
+    <image>https://www.wordradio.net/wp-content/uploads/2026/10/Main-Native-App-Banner.png</image>
     <url>https://www.wordradio.net</url>
     <redirect>n</redirect>
   </panel>
